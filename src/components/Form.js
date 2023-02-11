@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import styles from '../components/Form.css'
+import '../components/Form.css'
 const Form = () => {
     const [num1, setNum1] = useState("");
     const [num2, setNum2] = useState("");
