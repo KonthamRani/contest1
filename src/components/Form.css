@@ -1,0 +1,26 @@
+.main{
+    height: 100vh;
+    width:100vw;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+}
+.sub{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+
+}
+.sub h1{
+    color: white;
+    font-weight: 500;
+}
+.sub input{
+    background-color: transparent;
+    border:1px solid white
+}
